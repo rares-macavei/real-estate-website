@@ -11,7 +11,7 @@ function App() {
       <Navbar />
       {/* Hero */}
       <Hero />
-      {/* New Listings */}
+      {/* New Listings */} 
       <NewListings />
       {/* Take Action */}
       {/* Stickers */}
