@@ -43,7 +43,7 @@ const Hero = () => {
         <div className="relative mt-9  ">
           <input
             type="search"
-            className="bg-white py-4  w-[28rem] sm:w-[37rem] rounded-full pl-5 placeholder:text-gray-500 placeholder:text-[20px] outline-0 "
+            className="bg-white py-4  w-[24rem] sm:w-[32rem] rounded-full pl-5 placeholder:text-gray-500 placeholder:text-[20px] outline-0 "
             placeholder="Adress, School, City, Zip or Neighborhood"
           />
           <div className="absolute w-[2.7rem] h-[2.7rem] rounded-full  bg-[#e20112] top-[0.4rem] right-1 flex items-center justify-center">

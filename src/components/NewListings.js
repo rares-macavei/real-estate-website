@@ -33,7 +33,7 @@ const NewListings = () => {
     { photo: pet4, price: "$186,910", beds: 3, baths: 2, sqft: 4.747, sqftlot: "-", type: "Pet-friendly Apartment"  },
   ];
   return (
-    <div className="mx-[10rem]">
+    <div className="mx-[2rem] sm:mx-[6rem]">
       {/* Title */}
       <div className=" mt-10">
         <p className="text-[18.5px] font-medium ">
